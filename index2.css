@@ -1,0 +1,73 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  scroll-behavior: smooth;
+} 
+
+header{
+ border: 2px solid rgb(244, 152, 152) ; 
+ padding: 50px;
+ box-sizing: border-box;
+ height:1  00px  ;
+ background-color: #87aaf1;
+ 
+
+
+
+  }
+header>a{
+  color: antiquewhite ;
+  text-decoration: none;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin:  0PX 20PX ;
+ float: left;
+ 
+
+
+
+ 
+}
+header>a:hover  {
+  color: black;
+  
+}
+section  {
+  border: 2PX solid black ;
+  height: 400px;
+  text-align: center;
+text-transform: lowercase;
+padding: auto;
+box-sizing: border-box;
+
+  width: 1000px;
+  margin: auto;
+  background-image:linear-gradient(to bottom , rgb(175, 183, 240),rgb(105, 131, 247),rgb(145, 145, 248))
+ 
+}
+section>h1{
+font-size: 40px
+;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ section>img{
+  width: 400px;
+ }
+
+
+ 
+footer{
+  border: 2px solid black;
+  height: 100px;
+width: 1000px;
+margin: auto;
+background-color: rgb(15, 11, 11);
+text-align: center;
+padding: 50px;
+}
+footer>a{
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
