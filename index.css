@@ -61,4 +61,19 @@ cursor: pointer;
 input[type="submit"]:hover{
     background-color:rgb(228, 102, 102);
 }
+section>img{
+    padding: 20px;
+  border: 10px solid rgb(197, 18, 78);
+}
+
+
+section2>img{
+    border: 10px solid rgb(197, 18, 78);
+width: 275px;
+padding: 20px;
+ height:183x;
+
+    
+
+}
 
